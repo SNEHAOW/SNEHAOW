@@ -8,7 +8,7 @@ To leverage my skills and passion for software development to collaborate on inn
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Internal Security Audit]([https://github.com/SNEHAOW/URL](https://github.com/SNEHAOW/InternalSecurityAudit))
+- [Internal Security Audit]([https://github.com/SNEHAOW/URL](https://github.com/SNEHAOW/InternalSecurityAudit)
 
 <h2>📄 Certifications</h2>
 
