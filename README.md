@@ -10,12 +10,12 @@ To leverage my skills and passion for both software development and cybersecurit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Encryption and Decryption Techniques          | <a href="https://google.com](https://github.com/SNEHAOW/CyberCryptor/tree/main">Cyber Cryptor</a> |
-| User Input Validation                         | <a href="https://google.com](https://github.com/SNEHAOW/CyberCryptor/tree/main">Cyber Cryptor</a> |
-| Menu-Driven User Interface Development        | <a href="https://google.com](https://github.com/SNEHAOW/CyberCryptor/tree/main">Cyber Cryptor</a> |
-| Problem Solving                               | <a href="https://google.com](https://github.com/SNEHAOW/CyberCryptor/tree/main">Cyber Cryptor</a> |
-| Python Programming                            | <a href="https://google.com](https://github.com/SNEHAOW/CyberCryptor/tree/main">Cyber Cryptor</a> |
-| Cybersecurity Fundamentals                    | <a href="https://google.com](https://github.com/SNEHAOW/CyberCryptor/tree/main">Cyber Cryptor</a> |
+| Encryption and Decryption Techniques          | <a href="https://github.com/SNEHAOW/CyberCryptor">Cyber Cryptor</a> |
+| User Input Validation                         | <a href="https://github.com/SNEHAOW/CyberCryptor">Cyber Cryptor</a> |
+| Menu-Driven User Interface Development        | <a href="https://github.com/SNEHAOW/CyberCryptor">Cyber Cryptor</a> |
+| Problem Solving                               | <a href="https://github.com/SNEHAOW/CyberCryptor">Cyber Cryptor</a> |
+| Python Programming                            | <a href="https://github.com/SNEHAOW/CyberCryptor">Cyber Cryptor</a> |
+| Cybersecurity Fundamentals                    | <a href="https://github.com/SNEHAOW/CyberCryptor">Cyber Cryptor</a> |
 | Object-oriented Programming in Java           | [School Management System](https://github.com/SNEHAOW/SchoolManagementSystem) |
 | Encapsulation and Data Integrity Maintenance  | [School Management System](https://github.com/SNEHAOW/SchoolManagementSystem) |
 | Custom Container Classes Implementation       | [School Management System](https://github.com/SNEHAOW/SchoolManagementSystem) |
